@@ -2,7 +2,7 @@
 AI exercises for School Students
 
 ## Exercises
-This projets documents some possible exercises for school students (especially higher secondary students).
+This projets documents some possible exercises for school students (especially higher secondary students) to explain different aspects of Artificial Intelligence (AI).
 
 # Author
 * John Samuel
