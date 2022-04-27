@@ -1,0 +1,9 @@
+format: jb-book
+root: README
+parts:
+- caption: Travaux pratiques
+  numbered: true
+  chapters:
+  - file: fr/tp1.ipynb
+  - file: fr/tp2.ipynb
+  - file: fr/tp3.ipynb
