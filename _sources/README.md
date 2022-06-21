@@ -13,7 +13,8 @@ This projets documents some possible exercises for school students (especially h
 - John Samuel
 
 ## Archives and Releases
-* [Release Notes](RELEASE.md)
+- [Zenodo](https://doi.org/10.5281/zenodo.6675661)
+- [Release Notes](RELEASE.md)
 
 
 ## Licence
